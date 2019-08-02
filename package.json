@@ -1,0 +1,23 @@
+{
+  "name": "workshop",
+  "version": "0.1.0",
+  "description": "Workshop to show a bit more about hacktoberfest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffaeldantass/workshop.git"
+  },
+  "author": "Rafael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raffaeldantass/workshop/issues"
+  },
+  "homepage": "https://github.com/raffaeldantass/workshop#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
